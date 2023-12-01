@@ -1,0 +1,1 @@
+# Manage-application-teams-with-wpf-and-mvvm-pattern
